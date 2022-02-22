@@ -1,5 +1,5 @@
 import styled from "@emotion/styled";
-import { theme } from "../../pages/theme";
+import { theme } from "../theme";
 
 export const Style = styled.div`
   .center {

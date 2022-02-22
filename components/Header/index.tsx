@@ -1,6 +1,6 @@
 import Style from "./styled";
 import { ThemeProvider } from "@mui/material/styles";
-import { theme } from "../../pages/theme";
+import { theme } from "../theme";
 import { Button } from "@mui/material";
 import Link from "@mui/material/Link";
 
